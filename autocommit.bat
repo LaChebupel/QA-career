@@ -1,6 +1,3 @@
-@echo off
-setlocal
-
 cd C:\Users\vanya\Desktop\QA-career
 
 git add .
