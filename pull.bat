@@ -1,3 +1,3 @@
 cd C:\Users\vanya\Desktop\QA-career
 
-git pull
+git pull origin main
