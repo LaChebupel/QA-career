@@ -5,6 +5,6 @@ cd C:\Users\vanya\Desktop\QA-career
 
 git add .
 
-git commit -m "test1"
+git commit -m "%date%"
 
 git push origin main
