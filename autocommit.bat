@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-cd /d C:\Users\vanya\Desktop\QA-career
+cd C:\Users\vanya\Desktop\QA-career
 
 git add .
 
