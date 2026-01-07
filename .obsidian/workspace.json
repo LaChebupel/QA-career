@@ -11,6 +11,16 @@
             "id": "a7760c2fb77564a3",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "11b328f1736f4cf1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Основы PyTest.md",
@@ -185,8 +195,9 @@
   },
   "active": "a7760c2fb77564a3",
   "lastOpenFiles": [
-    "Заметка 2.md",
     "Основы PyTest.md",
+    "Тест2.md",
+    "Заметка 2.md",
     "autocommit.bat",
     "autocommit.txt",
     "Новый текстовый документ.txt",
